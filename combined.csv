@@ -1,4 +1,4 @@
-Rule,ScanBeforeResult,RemediationResult,RollbackResult
+Rule,Result,Result,Result
 1.1.1 Ensure Enforce password history is set to 24 or more passwords,Fail,Pass,Fail
 1.1.2 Ensure Maximum password age is set to 60 or fewer days but not 0,Fail,Pass,Fail
 1.1.3 Ensure Minimum password age is set to 1 or more days,Fail,Pass,Fail
